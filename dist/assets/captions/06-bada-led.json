@@ -1,0 +1,80 @@
+{
+  "title": "Obekanta i båda leden",
+  "duration": 182.96666666666482,
+  "beats": [
+    {
+      "start": 1.0,
+      "end": 15.999999999999998,
+      "text": "Samma x i båda leden. Bokstaven har samma värde överallt. Vi vill samla x-termerna på en sida.",
+      "formula": "4x+2=2x+12"
+    },
+    {
+      "start": 15.999999999999998,
+      "end": 30.96666666666689,
+      "text": "Välj en operation som hjälper. Ta bort två x från båda leden. Då försvinner x-termerna i högerledet.",
+      "formula": "4x+2-2x=2x+12-2x"
+    },
+    {
+      "start": 30.96666666666689,
+      "end": 45.96666666666684,
+      "text": "Två lådor återstår. Fyra x minus två x är två x. Högerledet är nu tolv.",
+      "formula": "2x+2=12"
+    },
+    {
+      "start": 45.96666666666684,
+      "end": 60.96666666666649,
+      "text": "Ta bort konstanten. Subtrahera två från båda leden. Likheten ska fortfarande gälla.",
+      "formula": "2x+2-2=12-2"
+    },
+    {
+      "start": 60.96666666666649,
+      "end": 75.96666666666616,
+      "text": "Dela i två lika delar. Dela båda leden med två. Lösningen blir x lika med fem.",
+      "formula": "\\frac{2x}{2}=\\frac{10}{2}"
+    },
+    {
+      "start": 75.96666666666616,
+      "end": 90.966666666666,
+      "text": "Kontrollera båda ursprungliga leden. Sätt in fem på båda sidor. Båda leden får värdet 22.",
+      "formula": "4x+2=2x+12"
+    },
+    {
+      "start": 90.966666666666,
+      "end": 105.96666666666584,
+      "text": "Varför byter termen tecken?. Teckenbytet kommer från att samma term subtraheras i båda leden.",
+      "formula": "4x+2=2x+12\\ \\Longrightarrow\\ 4x-2x=12-2"
+    },
+    {
+      "start": 105.96666666666584,
+      "end": 120.96666666666559,
+      "text": "En ekvation kan sakna lösning. Ta bort två x från båda leden. Då återstår påståendet fyra är lika med sju.",
+      "formula": "2x+4=2x+7"
+    },
+    {
+      "start": 120.96666666666559,
+      "end": 135.96666666666545,
+      "text": "En ekvation kan gälla för alla x. Utveckla parentesen. Båda leden är samma uttryck och ger samma värde för varje x.",
+      "formula": "2x+4=2(x+2)"
+    },
+    {
+      "start": 135.96666666666545,
+      "end": 150.9666666666653,
+      "text": "Tre möjliga slut. En lösning, ingen lösning eller alla x. Läs vad den sista raden faktiskt säger.",
+      "formula": "x=5\\qquad 4=7\\qquad 4=4"
+    },
+    {
+      "start": 150.9666666666653,
+      "end": 165.96666666666516,
+      "text": "Din tur: välj första steget. Pausa filmen. Samla x på en sida, lös och kontrollera sedan båda leden.",
+      "formula": "5x+1=2x+16"
+    },
+    {
+      "start": 165.96666666666516,
+      "end": 180.96666666666482,
+      "text": "Följ likheten hela vägen. Subtrahera ett och dela med tre. x är fem och båda ursprungliga leden blir 26.",
+      "formula": "3x+1=16"
+    }
+  ],
+  "narration": false,
+  "text_renderer": "LaTeX"
+}

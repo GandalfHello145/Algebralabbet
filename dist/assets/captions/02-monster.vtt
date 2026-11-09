@@ -1,0 +1,65 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:09.000
+Ett mönster växer. Kan du se vad som förändras och vad som finns kvar?
+
+2
+00:00:09.000 --> 00:00:20.000
+Figur ett innehåller fem prickar: två fasta och en grupp om tre.
+
+3
+00:00:20.000 --> 00:00:32.000
+I figur två finns två grupper om tre. De två gula prickarna är kvar.
+
+4
+00:00:32.000 --> 00:00:44.000
+Figur tre har elva prickar. Vi lägger alltid till tre.
+
+5
+00:00:44.000 --> 00:00:57.000
+Följ ökningen: 5, 8, 11. Vad tror du att nästa antal blir?
+
+6
+00:00:57.000 --> 00:01:09.800
+Figur fyra har 14 prickar. Men hur hittar vi figur 20 direkt?
+
+7
+00:01:09.800 --> 00:01:20.800
+Bokstaven n får stå för figurens nummer.
+
+8
+00:01:20.800 --> 00:01:32.800
+Antalet grupper är n. Varje grupp innehåller tre prickar.
+
+9
+00:01:32.800 --> 00:01:44.800
+De två fasta prickarna ger +2. Hela regeln är 3n+2.
+
+10
+00:01:44.800 --> 00:01:58.600
+Sätt in n=20. Vi får 3·20+2=62.
+
+11
+00:01:58.600 --> 00:02:10.600
+Ökningen tre räcker inte som regel. Regeln 3n missar de fasta prickarna.
+
+12
+00:02:10.600 --> 00:02:22.600
+Kontrollera alltid med en liten figur. För n=1 ger regeln fem prickar.
+
+13
+00:02:22.600 --> 00:02:35.400
+Nu ett nytt mönster: fyra nya prickar per steg och en fast prick.
+
+14
+00:02:35.400 --> 00:02:49.400
+Din tur: vilken regel beskriver antalet prickar i figur n?
+
+15
+00:02:49.400 --> 00:03:01.400
+Regeln är 4n+1. Figur tio innehåller 41 prickar.
+
+16
+00:03:01.400 --> 00:03:14.200
+I labbet: bygg ett eget mönster och beskriv det med bild, tabell och regel.

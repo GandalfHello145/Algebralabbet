@@ -1,0 +1,80 @@
+{
+  "title": "Ekvationer",
+  "duration": 182.9666666666649,
+  "beats": [
+    {
+      "start": 1.0,
+      "end": 15.999999999999998,
+      "text": "Samma värde på båda sidor. Likhetstecknet säger att de två leden har samma värde.",
+      "formula": "3x+4=19"
+    },
+    {
+      "start": 15.999999999999998,
+      "end": 30.966666666666796,
+      "text": "Vad döljer sig i en låda?. Alla lådor märkta med x har samma okända innehåll.",
+      "formula": "x+x+x+4=19"
+    },
+    {
+      "start": 30.966666666666796,
+      "end": 45.966666666666754,
+      "text": "En gissning går att kontrollera. Om x är 3 blir vänsterledet 13. Då gäller inte likheten.",
+      "formula": "x=3\\quad ?"
+    },
+    {
+      "start": 45.966666666666754,
+      "end": 60.9666666666665,
+      "text": "Gör samma sak i båda leden. Ta bort fyra enheter från vardera sidan. Likheten bevaras.",
+      "formula": "3x+4-4=19-4"
+    },
+    {
+      "start": 60.9666666666665,
+      "end": 75.96666666666634,
+      "text": "Det som återstår. Tre likadana lådor har tillsammans värdet femton.",
+      "formula": "3x=15"
+    },
+    {
+      "start": 75.96666666666634,
+      "end": 90.966666666666,
+      "text": "Dela i tre lika grupper. Dela båda leden med tre. Varje låda får fem enheter.",
+      "formula": "\\frac{3x}{3}=\\frac{15}{3}"
+    },
+    {
+      "start": 90.966666666666,
+      "end": 105.96666666666584,
+      "text": "Lösningen är ett värde. Lösningen är det värde på x som gör ursprungsekvationen sann.",
+      "formula": "x=5"
+    },
+    {
+      "start": 105.96666666666584,
+      "end": 120.96666666666569,
+      "text": "Sätt tillbaka värdet. Kontrollera i ekvationen du började med: tre gånger fem plus fyra är nitton.",
+      "formula": "3x+4=19"
+    },
+    {
+      "start": 120.96666666666569,
+      "end": 135.96666666666553,
+      "text": "Upptäck ett fel. Tar du bort fyra på bara en sida har du ändrat likheten.",
+      "formula": "3x+4=19\\quad\\not\\Rightarrow\\quad3x=19"
+    },
+    {
+      "start": 135.96666666666553,
+      "end": 150.9666666666652,
+      "text": "Motsatta operationer. Ta först bort två. Multiplicera sedan båda leden med fyra.",
+      "formula": "\\frac{x}{4}+2=5"
+    },
+    {
+      "start": 150.9666666666652,
+      "end": 165.96666666666505,
+      "text": "Nu är det din tur. Vilken operation gör du först? Lös och kontrollera innan du fortsätter.",
+      "formula": "2x+3=17"
+    },
+    {
+      "start": 165.96666666666505,
+      "end": 180.9666666666649,
+      "text": "Se varför svaret fungerar. Subtrahera tre, dela med två och kontrollera x lika med sju.",
+      "formula": "2x+3=17"
+    }
+  ],
+  "narration": false,
+  "text_renderer": "LaTeX"
+}

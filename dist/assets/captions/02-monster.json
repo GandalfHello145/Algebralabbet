@@ -1,0 +1,92 @@
+{
+  "title": "Mönster",
+  "duration": 194.1999999999983,
+  "cues": [
+    {
+      "start": 0.0,
+      "text": "Ett mönster växer. Kan du se vad som förändras och vad som finns kvar?",
+      "end": 9.0
+    },
+    {
+      "start": 9.0,
+      "text": "Figur ett innehåller fem prickar: två fasta och en grupp om tre.",
+      "end": 19.999999999999993
+    },
+    {
+      "start": 19.999999999999993,
+      "text": "I figur två finns två grupper om tre. De två gula prickarna är kvar.",
+      "end": 32.00000000000014
+    },
+    {
+      "start": 32.00000000000014,
+      "text": "Figur tre har elva prickar. Vi lägger alltid till tre.",
+      "end": 43.99999999999997
+    },
+    {
+      "start": 43.99999999999997,
+      "text": "Följ ökningen: $5$, $8$, $11$. Vad tror du att nästa antal blir?",
+      "end": 56.9999999999998
+    },
+    {
+      "start": 56.9999999999998,
+      "text": "Figur fyra har $14$ prickar. Men hur hittar vi figur $20$ direkt?",
+      "end": 69.79999999999964
+    },
+    {
+      "start": 69.79999999999964,
+      "text": "Bokstaven $n$ får stå för figurens nummer.",
+      "end": 80.79999999999953
+    },
+    {
+      "start": 80.79999999999953,
+      "text": "Antalet grupper är $n$. Varje grupp innehåller tre prickar.",
+      "end": 92.79999999999941
+    },
+    {
+      "start": 92.79999999999941,
+      "text": "De två fasta prickarna ger $+2$. Hela regeln är $3n+2$.",
+      "end": 104.7999999999993
+    },
+    {
+      "start": 104.7999999999993,
+      "text": "Sätt in $n=20$. Vi får $3\\cdot20+2=62$.",
+      "end": 118.59999999999908
+    },
+    {
+      "start": 118.59999999999908,
+      "text": "Ökningen tre räcker inte som regel. Regeln $3n$ missar de fasta prickarna.",
+      "end": 130.59999999999897
+    },
+    {
+      "start": 130.59999999999897,
+      "text": "Kontrollera alltid med en liten figur. För $n=1$ ger regeln fem prickar.",
+      "end": 142.59999999999886
+    },
+    {
+      "start": 142.59999999999886,
+      "text": "Nu ett nytt mönster: fyra nya prickar per steg och en fast prick.",
+      "end": 155.39999999999864
+    },
+    {
+      "start": 155.39999999999864,
+      "text": "Din tur: vilken regel beskriver antalet prickar i figur $n$?",
+      "end": 169.39999999999858
+    },
+    {
+      "start": 169.39999999999858,
+      "text": "Regeln är $4n+1$. Figur tio innehåller $41$ prickar.",
+      "end": 181.39999999999847
+    },
+    {
+      "start": 181.39999999999847,
+      "text": "I labbet: bygg ett eget mönster och beskriv det med bild, tabell och regel.",
+      "end": 194.1999999999983
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "narration": false
+}

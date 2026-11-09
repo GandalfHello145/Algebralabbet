@@ -1,0 +1,97 @@
+{
+  "title": "Förenkling av uttryck",
+  "duration": 212.799999999998,
+  "cues": [
+    {
+      "start": 0.0,
+      "text": "Att förenkla är att skriva samma värde på ett tydligare sätt.",
+      "end": 12.999999999999996
+    },
+    {
+      "start": 12.999999999999996,
+      "text": "Här finns två sorters termer: $x$-termer och vanliga tal.",
+      "end": 24.999999999999986
+    },
+    {
+      "start": 24.999999999999986,
+      "text": "Liknande termer hör ihop. Flytta hela termen, inklusive tecknet.",
+      "end": 37.000000000000135
+    },
+    {
+      "start": 37.000000000000135,
+      "text": "Fyra $x$ och två $x$ blir sex $x$.",
+      "end": 48.999999999999964
+    },
+    {
+      "start": 48.999999999999964,
+      "text": "Tre minus ett är två. Därför blir taldelen $+2$.",
+      "end": 60.99999999999985
+    },
+    {
+      "start": 60.99999999999985,
+      "text": "Det förenklade uttrycket är $6x+2$. Värdet har inte ändrats.",
+      "end": 72.99999999999974
+    },
+    {
+      "start": 72.99999999999974,
+      "text": "Kontrollera med $x=3$. Båda uttrycken får värdet tjugo.",
+      "end": 86.79999999999953
+    },
+    {
+      "start": 86.79999999999953,
+      "text": "Men ett $x$ och tre vanliga ettor är olika sorter.",
+      "end": 99.59999999999937
+    },
+    {
+      "start": 99.59999999999937,
+      "text": "$x+3$ kan inte bli $4x$. Prova $x=2$: fem är inte åtta.",
+      "end": 111.59999999999926
+    },
+    {
+      "start": 111.59999999999926,
+      "text": "Minustecknet följer termen: $5x-2x$ betyder fem $x$ minus två $x$.",
+      "end": 124.3999999999991
+    },
+    {
+      "start": 124.3999999999991,
+      "text": "Ett positivt och ett negativt $x$ bildar ett nollpar.",
+      "end": 136.39999999999893
+    },
+    {
+      "start": 136.39999999999893,
+      "text": "Tre positiva $x$ är kvar: $5x-2x=3x$.",
+      "end": 148.3999999999988
+    },
+    {
+      "start": 148.3999999999988,
+      "text": "Flera bokstäver? Håll $x$, $y$ och tal i varsin grupp.",
+      "end": 162.19999999999854
+    },
+    {
+      "start": 162.19999999999854,
+      "text": "Resultatet är $4x+y+4$. Olika sorters termer slås inte ihop.",
+      "end": 173.19999999999843
+    },
+    {
+      "start": 173.19999999999843,
+      "text": "Din tur: förenkla $7x+5-3x-2$. Tänk en sort i taget.",
+      "end": 188.99999999999827
+    },
+    {
+      "start": 188.99999999999827,
+      "text": "Svar: $4x+3$. Kontrollera själv genom att välja ett värde på $x$.",
+      "end": 200.99999999999815
+    },
+    {
+      "start": 200.99999999999815,
+      "text": "I labbet: sortera termer, skapa nollpar och försök förklara varje steg.",
+      "end": 212.799999999998
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "narration": false
+}

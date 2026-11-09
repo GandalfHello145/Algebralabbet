@@ -1,0 +1,56 @@
+[
+  {
+    "file": "01-uttryck.mp4",
+    "duration": 184.0,
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "bytes": 3752220,
+    "sha256": "5519e86abb90d652f2f96d2583e3759164f9abb46e4ef89d0d4bcf17f5c84764"
+  },
+  {
+    "file": "02-monster.mp4",
+    "duration": 194.2,
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "bytes": 3943520,
+    "sha256": "35700b4f79caf2007c4bfe6a36e264b138755afacd5ddb0e000ee1609df2bea9"
+  },
+  {
+    "file": "03-forenkla.mp4",
+    "duration": 212.8,
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "bytes": 4370385,
+    "sha256": "851f5434d32d98e8b45e01e183b46aea3e87185462132100202799d3e6fa6fd0"
+  },
+  {
+    "file": "04-ekvationer.mp4",
+    "duration": 182.966667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "bytes": 4765834,
+    "sha256": "fc9af7ed2040300fda6674e0f88c3d3a8428b7cee730554b4d2f4a029a6aebd8"
+  },
+  {
+    "file": "05-problem.mp4",
+    "duration": 182.966667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "bytes": 4709680,
+    "sha256": "ff575c8b418a167a09bd0de4da5dca1653861714982ea11f6b97187097df71b2"
+  },
+  {
+    "file": "06-bada-led.mp4",
+    "duration": 182.966667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "30/1",
+    "bytes": 4911216,
+    "sha256": "24a2c0c81fbe970e8dc7f5f8a2cdeaa2398818921d2795f7fe0883418cd2e806"
+  }
+]

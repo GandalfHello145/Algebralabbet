@@ -1,0 +1,87 @@
+{
+  "title": "Algebraiska uttryck",
+  "duration": 183.99999999999847,
+  "cues": [
+    {
+      "start": 0.0,
+      "text": "Hur beskriver vi något innan vi vet hur mycket det är?",
+      "end": 11.0
+    },
+    {
+      "start": 11.0,
+      "text": "Bokstaven $x$ får stå för antalet kulor i en påse.",
+      "end": 22.999999999999993
+    },
+    {
+      "start": 22.999999999999993,
+      "text": "Tre likadana påsar innehåller $x+x+x$ kulor.",
+      "end": 35.80000000000018
+    },
+    {
+      "start": 35.80000000000018,
+      "text": "Vi skriver $3x$. Det betyder $3$ gånger $x$.",
+      "end": 47.80000000000007
+    },
+    {
+      "start": 47.80000000000007,
+      "text": "Två lösa kulor kommer till. Hela uttrycket är $3x+2$.",
+      "end": 59.799999999999955
+    },
+    {
+      "start": 59.799999999999955,
+      "text": "Uttrycket visar ett samband. Det har olika värde för olika $x$.",
+      "end": 70.79999999999984
+    },
+    {
+      "start": 70.79999999999984,
+      "text": "Om varje påse innehåller fyra kulor sätter vi in $x=4$.",
+      "end": 82.79999999999961
+    },
+    {
+      "start": 82.79999999999961,
+      "text": "Räkna multiplikationen först: $12+2=14$.",
+      "end": 94.7999999999995
+    },
+    {
+      "start": 94.7999999999995,
+      "text": "Byt till $x=7$. Samma uttryck får nu värdet $23$.",
+      "end": 108.59999999999928
+    },
+    {
+      "start": 108.59999999999928,
+      "text": "Jämför $3x+2$ med $3(x+2)$. Parentesen förändrar betydelsen.",
+      "end": 121.39999999999912
+    },
+    {
+      "start": 121.39999999999912,
+      "text": "När $x=4$ blir värdena $14$ respektive $18$.",
+      "end": 132.399999999999
+    },
+    {
+      "start": 132.399999999999,
+      "text": "Din tur: fyra påsar och tre lösa. Vilket uttryck beskriver det?",
+      "end": 147.19999999999885
+    },
+    {
+      "start": 147.19999999999885,
+      "text": "Svar: $4x+3$. Koefficienten $4$ talar om antalet påsar.",
+      "end": 159.19999999999874
+    },
+    {
+      "start": 159.19999999999874,
+      "text": "Prova också $x=5$. Då blir $4x+3=23$.",
+      "end": 171.19999999999862
+    },
+    {
+      "start": 171.19999999999862,
+      "text": "I labbet: ändra $x$, förutsäg värdet och förklara varje del.",
+      "end": 183.99999999999847
+    }
+  ],
+  "resolution": [
+    1920,
+    1080
+  ],
+  "fps": 30,
+  "narration": false
+}

@@ -1,0 +1,80 @@
+{
+  "title": "Problemlösning",
+  "duration": 182.96666666666502,
+  "beats": [
+    {
+      "start": 1.0,
+      "end": 15.999999999999998,
+      "text": "Från berättelse till matematik. Ett nöjesfält tar 35 kronor i entré och 15 kronor per åktur. Du betalar 125 kronor.",
+      "formula": "35+15x=125"
+    },
+    {
+      "start": 15.999999999999998,
+      "end": 30.966666666666796,
+      "text": "Välj vad bokstaven betyder. x räknar åkturer. Det är inte ett pris och inte antalet kronor.",
+      "formula": "x=\\text{antal åkturer}"
+    },
+    {
+      "start": 30.966666666666796,
+      "end": 45.966666666666754,
+      "text": "Hitta det fasta och det rörliga. Entrén betalas en gång. Varje åktur lägger till femton kronor.",
+      "formula": "\\text{kostnad}=35+15x"
+    },
+    {
+      "start": 45.966666666666754,
+      "end": 60.9666666666666,
+      "text": "Bygg en modell. Det fasta priset och priset för x åkturer ska tillsammans bli 125 kronor.",
+      "formula": "35+15x=125"
+    },
+    {
+      "start": 60.9666666666666,
+      "end": 75.96666666666626,
+      "text": "Ta bort den fasta kostnaden. Subtrahera 35 från båda leden. Då återstår pengarna för åkturerna.",
+      "formula": "35+15x-35=125-35"
+    },
+    {
+      "start": 75.96666666666626,
+      "end": 90.96666666666592,
+      "text": "Hur många femton får plats i nittio?. Dela båda leden med femton. Nittio kronor räcker till sex åkturer.",
+      "formula": "\\frac{15x}{15}=\\frac{90}{15}"
+    },
+    {
+      "start": 90.96666666666592,
+      "end": 105.96666666666576,
+      "text": "Svara i berättelsens språk. Du kan åka sex gånger. Skriv både antalet och vad antalet betyder.",
+      "formula": "x=6\\ \\text{åkturer}"
+    },
+    {
+      "start": 105.96666666666576,
+      "end": 120.9666666666656,
+      "text": "Kontrollera hela kostnaden. Entrén är 35 kronor och sex åkturer kostar 90 kronor. Summan blir 125.",
+      "formula": "35+15\\cdot6=125"
+    },
+    {
+      "start": 120.9666666666656,
+      "end": 135.96666666666545,
+      "text": "En viktig skillnad. Entrén räknas bara en gång. Multiplicera inte den fasta kostnaden med antalet åkturer.",
+      "formula": "35+15x\\ne15(35+x)"
+    },
+    {
+      "start": 135.96666666666545,
+      "end": 150.9666666666653,
+      "text": "När svaret inte är ett heltal. Ekvationen ger sex och en tredjedel. Men hela åkturer måste räknas som heltal.",
+      "formula": "35+15x=130"
+    },
+    {
+      "start": 150.9666666666653,
+      "end": 165.96666666666516,
+      "text": "Ditt eget modellproblem. En cykeluthyrning tar 20 kronor i startavgift och 8 kronor per timme. Hur många timmar ger 76 kronor?",
+      "formula": "20+8x=76"
+    },
+    {
+      "start": 165.96666666666516,
+      "end": 180.96666666666502,
+      "text": "Lös och tolka. Subtrahera 20 och dela med 8. Svaret är sju timmar. Kontroll: 20 plus 56 är 76.",
+      "formula": "8x=56"
+    }
+  ],
+  "narration": false,
+  "text_renderer": "LaTeX"
+}
