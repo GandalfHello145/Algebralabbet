@@ -29,9 +29,10 @@ jobs:
       - name: Ensure FFprobe is available
         run: command -v ffprobe >/dev/null || (sudo apt-get update -qq && sudo apt-get install -y ffmpeg)
       - name: Verify mathematics
-        run: node --test scripts/model.test.mjs
+        run: node --test scripts/*.test.mjs
       - name: Check browser module
-        run: node --check dist/app.js
+        run: |
+          for source in dist/*.js; do node --check "$source"; done
       - name: Verify all resources and six full HD films
         run: python scripts/verify_site.py
       - uses: actions/configure-pages@v5

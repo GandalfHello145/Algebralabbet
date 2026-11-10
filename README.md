@@ -28,7 +28,7 @@ python3 -m http.server 8047 --directory dist
 | 2.5 Problemlösning med ekvationer | Nöjesparksuppdraget | åkturer och tre budgetscenarier; heltalskrav och pengar kvar |
 | 2.6 Obekanta i båda leden | Två sidor, ett x | samla x; en lösning, ingen lösning och alla x |
 
-Varje del innehåller flikarna **Utforska**, **Se filmen** och **Träna**. Träningen har Kom igång, Utforska och Utmana, ledtrådar, omedelbar återkoppling och nya uppgifter utan tidspress. Ett löst uppdrag ger en lokal markering; den ska inte tolkas som ett kunskapsomdöme.
+Varje del innehåller flikarna **Utforska**, **Förstå**, **Se filmen** och **Träna**. Förstå ger stegvisa LaTeX-förklaringar, kontroll av exempel och vanliga missuppfattningar. Träningen har Kom igång, Utforska och Utmana, ledtrådar, omedelbar återkoppling och nya uppgifter utan tidspress. Ett löst uppdrag ger en lokal markering; den ska inte tolkas som ett kunskapsomdöme.
 
 ## Tillgänglighet och elevdata
 
@@ -47,7 +47,7 @@ Färdiga MP4, VTT och affischer ligger under `dist/assets/`. Filmkod finns i `fi
 Med Node.js (inga npm-beroenden):
 
 ```sh
-node --test scripts/model.test.mjs
+node --test scripts/*.test.mjs
 node --check dist/app.js
 python3 scripts/verify_site.py
 ```
@@ -55,3 +55,9 @@ python3 scripts/verify_site.py
 Den sista kontrollen använder FFprobe för färdiga filmer. Före rendering kan den köras med `--skip-media`. Matematiktesterna omfattar 1 800 deterministiska uppgifter över samtliga ämnen och nivåer, lösningar, negativa tal, bråk, förenkling och uttrycksvärden.
 
 Se [ämnesplan och källor](docs/CURRICULUM.md) samt [verifiering](docs/VERIFICATION.md). KaTeX 0.19.1 med MIT-licens är lokalt paketerat under `dist/vendor/katex/`.
+
+## Byggbara simuleringar
+
+Den nya studiovyn har dragbara byggstenar med mus, penna och pekskärm, samt motsvarande klick- och tangentbordsval. Uttryck kan byggas av x- och enhetsbrickor; mönster har separat tillväxt och fast del, tidsstyrning och jämförelser; termer kan sorteras och bilda nollpar; ekvationer kan byggas och omformas med samma operation i båda leden; parkkort kan fyllas med biljetter och jämföras mot ändrade priser och budget.
+
+`dist/lab-kit.js` innehåller gemensam draghantering och LaTeX-rendering. Studiorna finns i tre `labs-*.js`-moduler. `explanations.js` innehåller förklaringarna. Rörelser har paus eller reducerat läge, och aktiva animationer städas vid vybyte. Bilder och talvärden styrs av samma modeller.
